@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="579bee0d-dc9d-471e-864e-254a8ba3f6f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/PostCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/PostCard.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AUEEck5sZANug6b9c3mGeNdZfG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +42,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu20.04LTS\var\www\html\angromcas-local.github.io" />
+      <recent name="\\wsl$\Ubuntu20.04LTS\var\www\html\angromcas-local.github.io\pages" />
       <recent name="\\wsl$\Ubuntu20.04LTS\var\www\html\angromcas-local.github.io\public" />
     </key>
   </component>
@@ -55,12 +56,18 @@
       <option name="presentableId" value="Default" />
       <updated>1655055653131</updated>
       <workItem from="1655055654432" duration="775000" />
-      <workItem from="1655056447460" duration="2079000" />
+      <workItem from="1655056447460" duration="7749000" />
+      <workItem from="1655098776450" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pages/index.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
